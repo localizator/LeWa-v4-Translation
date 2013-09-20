@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Очищення</string>
+    <string name="hello_world">Привіт світ!</string>
+    <string name="menu_settings">Налаштування</string>
+    <string name="title_activity_config">ConfigActivity</string>
+    <string name="result_format">Закрито додатки %1$d, звільнено пам\'яті %2$s</string>
+    <string name="optimized">Була оптимізована для кращої</string>
+</resources>

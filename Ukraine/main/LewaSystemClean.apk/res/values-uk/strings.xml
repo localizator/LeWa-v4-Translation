@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Очищення системи</string>
+    <string name="menu_settings">Налаштування</string>
+    <string name="calculate_sdcard">Перевірка SD карти</string>
+    <string name="calculate_size">Обчислення розміру...</string>
+    <string name="clean_sdcard">Очищення SD карти</string>
+    <string name="clean_sdcard_completed">Очищення SD карти завершена</string>
+</resources>

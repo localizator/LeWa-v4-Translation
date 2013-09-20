@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Програма установки пакета</string>
+    <string name="install">Встановити</string>
+    <string name="done">Готово</string>
+    <string name="security_settings_desc">Дозволити цьому додатку:</string>
+    <string name="cancel">Скасування</string>
+    <string name="unknown">Невідомо</string>
+    <string name="installing">Установка...</string>
+    <string name="install_done">Додаток встановлено</string>
+    <string name="install_confirm_question">Встановити цю програму?
+</string>
+    <string name="install_confirm_question_no_perms">Ви хочете встановити цю програму? Додаток не вимагає жодних спеціальних прав доступу.</string>
+    <string name="install_confirm_question_update">Ви хочете встановити оновлення для цього додатка? Ваші існуючі дані не втрачаються. Оновлений додаток буде мати доступ до:</string>
+    <string name="install_confirm_question_update_system">Ви хочете встановити оновлення для цього додатка? Ваші існуючі дані не втрачаються. Оновлений додаток буде мати доступ до:</string>
+    <string name="install_failed">Додаток не встановлено</string>
+    <string name="install_failed_invalid_apk">Схоже, пакет пошкоджений.
+</string>
+    <string name="install_failed_inconsistent_certificates">Пакет з такою назвою вже встановлений і має конфліктуючу підпис.
+</string>
+    <string name="install_failed_older_sdk">Цей пакет підтримується тільки в системі Android пізніших версій.
+</string>
+    <string name="install_failed_cpu_abi_incompatible">Процесор телефону не підтримує це додаток.
+</string>
+    <string name="install_failed_file_not_found">Зазначений пакет видалений до завершення встановлення. </string>
+    <string name="install_failed_verify_failed">Пакет не перевірений і не може бути встановлений.
+</string>
+    <string name="install_failed_verify_timeout">Не вдалося перевірити пакет. Спробуйте встановити його пізніше.
+</string>
+    <string name="install_failed_msg">Встановити додаток %1$s на цьому телефоні не вдалося.
+</string>
+    <string name="launch">Відкрити
+</string>
+    <string name="unknown_apps_dlg_title">Установка заблокована
+</string>
+    <string name="unknown_apps_dlg_text">З міркувань безпеки на вашому телефоні заблокована установка додатків, отриманих не з Android-маркету.
+</string>
+    <string name="ok">ОК
+</string>
+    <string name="settings">Налаштування
+</string>
+    <string name="allow_source_dlg_title">Дозволити додавання нового джерела для додатків?
+</string>
+    <string name="allow_source_dlg_text">\"%1$s хоче встановити інші програми.
+
+Дозволити і запам\'ятати вибір? \" </string>
+    <string name="manage_applications">Управління додатками
+</string>
+    <string name="dlg_app_replacement_title">Замінити додаток
+</string>
+    <string name="dlg_app_replacement_statement">\"Додаток, який ви встановлюєте, замінить інший додаток.
+
+Всі користувальницькі дані будуть збережені \".
+</string>
+    <string name="dlg_sys_app_replacement_statement">\"Це системне додаток. Замінити?
+
+Всі користувальницькі дані будуть збережені \".
+</string>
+    <string name="out_of_space_dlg_title">Недостатньо місця
+</string>
+    <string name="out_of_space_dlg_text">Встановити додаток %1$s не вдалося. Звільніть місце і повторіть спробу.
+</string>
+    <string name="dlg_ok">ОК
+</string>
+    <string name="app_not_found_dlg_title">Додаток не знайдено
+</string>
+    <string name="app_not_found_dlg_text">Додаток не було знайдено в списку встановлених додатків.
+</string>
+    <string name="uninstall_application_title">Видалення програми
+</string>
+    <string name="uninstall_update_title">Видалення оновлення
+</string>
+    <string name="uninstall_activity_text">%1$s є частиною такого додатка:
+</string>
+    <string name="uninstall_application_text">Додаток буде видалено
+</string>
+    <string name="uninstall_update_text">Буде відновлена ​​вихідна версія додатку.
+</string>
+    <string name="uninstalling">Видалення...
+</string>
+    <string name="uninstall_done">Видалення завершено
+</string>
+    <string name="uninstall_failed">Помилка при видаленні
+</string>
+    <string name="uninstall_failed_device_policy_manager">Не вдалося видалити пакет, так як він обраний для адміністрування усройства.
+</string>
+    <string name="manage_device_administrators">Налаштування адміністрування
+</string>
+    <string name="uninstall_failed_msg">Видалити додаток %1$s не вдалося.
+</string>
+    <string name="Parse_error_dlg_title">Синтаксична помилка
+</string>
+    <string name="Parse_error_dlg_text">При синтаксичному аналізі пакета виникла неполадка.
+</string>
+    <string name="newPerms">Нові дозволи
+</string>
+    <string name="privacyPerms">Безпека дозволу </string>
+    <string name="devicePerms">Пристрій пов\'язаних привілеїв </string>
+    <string name="no_new_perms">Це оновлення не вимагає ніяких нових привілей. </string>
+</resources>
