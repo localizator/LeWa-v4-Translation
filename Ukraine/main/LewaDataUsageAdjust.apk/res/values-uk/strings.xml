@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Калібрування витрат</string>
-    <string name="app_summary">Моніторинг трафіку х функція калібрування LeWa технології.</string>
-    <string name="app_title">Калібрування в цьому місяці з потоком</string>
-    <string name="request_failed">Оператори не змогли отримати дані Калібрування потоку не вдалося</string>
-    <string name="request_sms">Поєднання трафіку SMS запиту конфігурації</string>
-    <string name="send_sms">Поєднання для операторів запиту, будь ласка, почекайте ...</string>
-    <string name="analyze_sms">Поєднання звітів по використанню трафіку</string>
-    <string name="correct_failed">Нездатність вирішити носія даних калібрування витрат не вдалося</string>
-    <string name="correct_success">Мати доступ до носія даних, успішно Калібрування витрат</string>
+    <string name="app_name">Sync Data Usage</string>
+    <string name="app_summary">Частина пакету Data Meter LeWaTek Limited.</string>
+    <string name="app_title">Надіслати запит використання даних</string>
+    <string name="request_failed">Запит використання даних провалився</string>
+    <string name="request_sms">Налаштувати SMS запит про використання даних</string>
+    <string name="send_sms">Надсилання SMS-запиту про використяння даних...</string>
+    <string name="analyze_sms">Аналіз використання даних</string>
+    <string name="correct_failed">Не вдалось проаналізувати використання даних</string>
+    <string name="correct_success">Успішно проаналізовано використання даних</string>
     <string name="alert_slot_error">Невірний слот для карти</string>
     <string name="alert_network_error">Будь ласка, підключіться до мережі</string>
     <string name="phone_closed">Будь ласка, відкрийте функції телефону</string>

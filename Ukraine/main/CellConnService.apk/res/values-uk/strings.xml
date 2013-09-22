@@ -23,7 +23,7 @@
     <string name="confirm_unlock_lbutton">Розблокувати</string>
     <string name="confirm_unlock_fail">Операцію скасовано</string>
     <string name="confirm_turnon_radio_fail">Операцію скасовано</string>
-    <string name="confirm_permit_roaming_fail">Ви відключили це дія для SIM-карти в роумінгу</string>
+    <string name="confirm_permit_roaming_fail">Ви відключили цю дію для SIM-карти в роумінгу</string>
     <string name="confirm_sim_locked_message">SIM-карта безповоротно заблокована.</string>
     <string name="confirm_slot_locked_message">Гніздо заблоковано назавжди.</string>
     <string name="confirm_disable_lbutton">Відключити</string>

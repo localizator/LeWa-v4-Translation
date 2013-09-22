@@ -45,7 +45,7 @@
     <string name="revert">Скасування</string>
     <string name="delete">Видалити</string>
     <string name="alarm_volume_title">Гучність будильника</string>
-    <string name="alarm_volume_summary">Регулювання гучності будильника</string>
+    <string name="alarm_volume_summary">Налаштування гучності будильника</string>
     <string name="silent_alarm_summary">Без звуку</string>
     <string name="alarm_notify_text">Відкласти / вимкнути будильник</string>
     <string name="alarm_notify_snooze_label">%s (відкладено)</string>
@@ -58,7 +58,7 @@
     <string name="gallery_button_description">Галерея</string>
     <string name="music_button_description">Музика</string>
     <string name="nightmode_button_description">Затемнити</string>
-    <string name="home_button_description">Пускова установка</string>
+  <string name="home_button_description">Запуск</string>
     <string name="desk_clock_button_description">Зовнішній вигляд</string>
     <string name="battery_charging_level">%d%%</string>
     <string name="weather_fetch_failure">Інформація про погоду зараз недоступна.</string>

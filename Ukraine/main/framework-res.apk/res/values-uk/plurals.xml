@@ -68,8 +68,9 @@
         <item quantity="one">завтра</item>
     </plurals>
     <plurals name="wifi_available">
-        <item quantity="other">Wi-Fi мережі доступні</item>
+        <item quantity="other">Wi-Fi мереж доступно</item>
         <item quantity="one">Wi-Fi мережа доступна</item>
+	<item quantity="few">Wi-Fi мережі доступні</item>
     </plurals>
     <plurals name="wifi_available_detailed">
         <item quantity="other">Відкриті Wi-Fi мережі доступні</item>
@@ -79,4 +80,8 @@
         <item quantity="other">%1$d з %2$d</item>
         <item quantity="one">1 збіг</item>
     </plurals>
+  <plurals name="phone_goggles_countdown">
+    <item quantity="other">Залишилось% d сек</item>
+    <item quantity="one">Залишилася% d сек</item>
+  </plurals>
 </resources>

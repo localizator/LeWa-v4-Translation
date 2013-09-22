@@ -26,7 +26,7 @@
 	<string name="intercept_time_startTime">Початок</string>
 	<string name="intercept_time_endTime">Кінець</string>
 	<string name="intercept_blockmode_title">Вибір режиму блокування</string>
-	<string name="intercept_blacksmart">Інтелектуальна блокування</string>
+	<string name="intercept_blacksmart">Інтелектуальне блокування</string>
 	<string name="intercept_blackname">З чорного списку</string>
 	<string name="intercept_only_accept_whitelist">Тільки білий список</string>
 	<string name="intercept_nocontacts">Невідомі</string>
@@ -58,7 +58,7 @@
 	<string name="intercept_cleardialog_block_content">чорний список</string>
 	<string name="intercept_cleardialog_msg_content">відхилені повідомлення</string>
 	<string name="intercept_cleardialog_call_content">відхилені виклики </string>
-	<string name="intercept_optionMenu">Очистити% з
+	<string name="intercept_optionMenu">Очистити %s з
 </string>
 	<string name="intercept_blockcalllist_emp">Немає заблокованих викликів
 </string>
@@ -138,7 +138,7 @@
 </string>
 	<string name="app_intercept_delete_title">Видалення
 </string>
-	<string name="intercept_call_data">Відфільтровано: виклик% з
+	<string name="intercept_call_data">Відфільтровано: виклик %s
 </string>
 	<string name="intercept_msg_data">повідомлення %s
 </string>
@@ -215,17 +215,17 @@
 	<string name="delete_selected_item">Видалити виділені номери?</string>
 	<string name="dialog_tip">Поради</string>
 	<string name="select">обраний</string>
-	<string name="modify_black_name">Змінити ім\'я (НС)</string>
+	<string name="modify_black_name">Змінити ім\'я (ЧС)</string>
 	<string name="modify_white_name">Змінити ім\'я (БС)</string>
 	<string name="confirm_delete_select_msg_conversion">Підтвердіть видалення %s ланцюжка</string>
 	<string name="confirm_delete_select_call_conversion">Підтвердіть видалення %s виклику</string>
-	<string name="confirm_to_delete_select_blackname">Підтвердіть видалення %s номера (НС)</string>
+	<string name="confirm_to_delete_select_blackname">Підтвердіть видалення %s номера (ЧС)</string>
 	<string name="confirm_to_delete_select_whitename">Підтвердіть видалення %s номера (БС)</string>
 	<string name="confirm_to_send_selected_to_whitename">Підтвердіть переміщення %s в білий список (БС)</string>
 	<string name="confirm_to_send_to_whitename">Підтвердіть переміщення в білий список (БС)</string>
 	<string name="recover_all_info">Також відновити повідомлення і журнал викликів</string>
-	<string name="confirm_to_send_selected_to_blackname">Підтвердіть переміщення %s в чорний список (НС)</string>
-	<string name="confirm_to_send_to_blackname">Підтвердіть переміщення в чорний список (НС)</string>
+	<string name="confirm_to_send_selected_to_blackname">Підтвердіть переміщення %s в чорний список (ЧС)</string>
+	<string name="confirm_to_send_to_blackname">Підтвердіть переміщення в чорний список (ЧС)</string>
 	<string name="import_all_info">Також імпортувати повідомлення і виклики цього контакту</string>
 	<string name="intercept_not_open">Ні відкривати</string>
 	<string name="msg_send_recovery">Підтвердіть відновлення ланцюжків повідомлень</string>
@@ -258,7 +258,7 @@
 	<string name="noselectBlockMode">Не обраний блокуючий режим, виберіть перехоплення виклику або перехоплення повідомлень</string>
 	<string name="selectBlockModePromt">Необхідно вибрати перехоплення виклику або перехоплення повідомлень</string>
 	<string name="networkError">Помилка мережі, перевірити налаштування мережі</string>
-	<string name="logo_notice">Тих. підтримка</string>
+	<string name="logo_notice">Тех. підтримка</string>
 	<string name="intelligence_intercept_library_version">Версія бібліотеки интелектуального перехоплювача:</string>
 	<string name="add_black_number_prefix_prompt">Підказка: будуть перехоплюватися всі номери, що починаються з вказаного префікса</string>
 	<string name="number_list">СПИСОК НОМЕРІВ</string>

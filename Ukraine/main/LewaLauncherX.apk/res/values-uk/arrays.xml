@@ -17,12 +17,9 @@
         <item>Наближення</item>
         <item>Видалення</item>
         <item>Обертання вгору</item>
-        <item>Обертання вниз
-</item>
-        <item>Куб (+)
-</item>
-        <item>Куб (-)
-</item>
+        <item>Обертання вниз</item>
+        <item>Куб (+)</item>
+        <item>Куб (-)</item>
         <item>Стек (хз) </item>
     </string-array>
 </resources>
