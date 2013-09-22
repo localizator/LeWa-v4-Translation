@@ -2,7 +2,7 @@
 <resources>
     <plurals name="delete_selection">
         <item quantity="other">Видалити вибрані елементи</item>
-        <item quantity="one">Видалити вибрані елементи</item>
+        <item quantity="one">Видалити вибраний елемент</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d вибрано</item>

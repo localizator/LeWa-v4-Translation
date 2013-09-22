@@ -2,7 +2,7 @@
 <resources>
     <string name="calendar_storage">Пам\'ять календаря</string>
     <string name="upgrade_msg">Оновлення бази даних календаря</string>
-    <string name="calendar_default_name">За замовчуванням</string>
+    <string name="calendar_default_name">Типово</string>
     <string name="calendar_info">Відомості про календарі</string>
     <string name="calendar_info_error">Помилка</string>
     <string name="calendar_info_no_calendars">Немає календарів</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Провідник</string>
+    <string name="app_name">Провідни'к</string>
     <string name="desktop_name">Провідник</string>
     <string name="lewa_name">Lewa SDManager</string>
     <string name="tab_category">Категорії</string>
@@ -57,7 +57,7 @@
     <string name="copy_continuecopy">Продовження копіювання</string>
     <string name="cut_continuecut">Продовження вирізування</string>
     <string name="overwrite_confirm">Ви справді бажаєте перезаписати %s файли?</string>
-    <string name="overwrite_continue">Перезапісиваніе</string>
+    <string name="overwrite_continue">Перезапис</string>
     <string name="cancelcopy">Скасування копіювання</string>
     <string name="cancelcut">Скасування вирізування</string>
     <string name="child_invalidoperation">Операція скасована, папка є вкладеною %s файлів</string>
@@ -65,9 +65,9 @@
     <string name="find_no_associated_app">Не вдалося знайти пов\'язану програму</string>
     <string name="path_choice">Виберіть папку</string>
     <string name="sdcard_unavailable">SD-карта відсутня</string>
-    <string name="disselect_all">Всі скасувати</string>
+    <string name="disselect_all">Скасувати все</string>
     <string name="copyof">"Копія"</string>
-    <string name="same_name_files_operation_cancel">Операція скасована, т.к файли з однаковими іменами</string>
+    <string name="same_name_files_operation_cancel">Операція скасована, оскільки файли з однаковими іменами</string>
     <string name="detail_name">Ім\'я:</string>
     <string name="detail_size">Розмір:</string>
     <string name="detail_location">Шлях:</string>
@@ -96,7 +96,7 @@
     <string name="target_name_is_not_allow_null">Ім\'я не може бути порожнім</string>
     <string name="rename_fail">Ім\'я містить неприпустимі символи</string>
     <string name="sure">гаразд</string>
-    <string name="feedback_confirm">"Wi-Fi в даний час недоступно.Одно зображення більше 300 кб, що викличе деяку плату за інтернет-трафік.
+    <string name="feedback_confirm">"Мережа Wi-Fi в даний час недоступна. Одне зображення більше 300 кб, що викличе деяку плату за інтернет-трафік.
 
 Продовжити? "</string>
     <string name="reminder">Нагадування</string>

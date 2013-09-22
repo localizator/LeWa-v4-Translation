@@ -2,7 +2,7 @@
 <resources>
     <plurals name="move_messages">
         <item quantity="other">Переміщення повідомлень</item>
-        <item quantity="one">Переміщення повідомлень</item>
+        <item quantity="one">Переміщення повідомлення</item>
     </plurals>
     <plurals name="notification_new_one_account_fmt">
         <item quantity="other">%1$d непрочит. (%2$s)</item>
@@ -38,8 +38,9 @@
         <item quantity="one">Повідомл. видалено</item>
     </plurals>
     <plurals name="message_moved_toast">
-        <item quantity="other">До %2$s переміщено %1$d повідомл</item>
-        <item quantity="one">До %2$s переміщено %1$d повідомл</item>
+        <item quantity="other">До %2$s переміщено %1$d повідомлень</item>
+        <item quantity="one">До %2$s переміщено %1$d повідомлення</item>
+        <item quantity="few">До %2$s переміщено %1$d повідомлення</item>	
     </plurals>
     <plurals name="message_view_attachment_bytes">
         <item quantity="other">%d Б</item>

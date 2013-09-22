@@ -49,7 +49,7 @@
 
 При відновленні підключення оператор може стягувати платню за передачу даних \".</string>
     <string name="data_usage_disabled_dialog_enable">Відновити підключення</string>
-    <string name="status_bar_clear_all_button">Очистити</string>
+    <string name="status_bar_clear_all_button">Очистити все</string>
     <string name="status_bar_latest_events_title">Повідомлення</string>
     <string name="status_bar_no_recent_apps">Немає даних</string>
     <string name="screenshot_saving_ticker">Збереження...</string>

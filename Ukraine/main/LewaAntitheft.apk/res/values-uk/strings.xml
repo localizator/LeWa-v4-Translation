@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Протикрадій</string>
-    <string name="anti_theft_hint">Протикрадій не встановлений</string>
-    <string name="anti_theft_hint_sub">Три кроки, і у вас буде Протикрадій!</string>
+    <string name="app_name">Антизлодій</string>
+    <string name="anti_theft_hint">Антизлодій не встановлений</string>
+    <string name="anti_theft_hint_sub">Три кроки, і у вас буде Антизлодій!</string>
     <string name="app_summary">Anti Theft© LeWaTek Limited.</string>
     <string name="label_next">Далі</string>
     <string name="label_back">Назад</string>
     <string name="label_complete">Закінчити</string>
     <string name="send">Послати команду</string>
     <string name="unlock">Розблокувати</string>
-    <string name="antitheft">Протикрадій</string>
+    <string name="antitheft">Антизлодій</string>
     <string name="start_instantly">Установка</string>
-    <string name="antiseft_settings">Налаштування Протикрадія</string>
+    <string name="antiseft_settings">Налаштування Антизлодія</string>
     <string name="iam">Я</string>
     <string name="invalid_phone_number">Неправильний номер телефону</string>
     <string name="invalid_user_info">Інформація про користувача не може бути порожньою</string>
@@ -23,16 +23,16 @@
     <string name="remember_commands">Запам\'ятати команди</string>
     <string name="find_phone">Знайти ваш телефон</string>
     <string name="find_phone_instantly">Знайти прямо зараз</string>
-    <string name="remote_hint">Ви можете віддалено відправити команди на телефон, на якому стоїть Протикрадій</string>
+    <string name="remote_hint">Ви можете віддалено відправити команди на телефон, на якому стоїть Антизлодій</string>
     <string name="remote_hint_find_phone">Знайти втрачений телефон</string>
     <string name="remote_hint2">Функція: заблокувати телефон і зняти скріншот, визначити місце розташування, видалити дані, змінити паролі</string>
     <string name="remote_hint_select_command">Вибрати команди віддаленого доступу</string>
-    <string name="remote_prompt_phone_number">Ви потребуєте віддаленому управлінні телефоном</string>
-    <string name="remote_lock_phone_title">Ви вибрали блокування телефону та команду створення фото з телефону</string>
-    <string name="remote_lock_phone_hint">\"Команда блокування телефону, для входу буде потрібен пароль. Телефон зробить фото після двох невірних паролів і вишле вам\".</string>
+    <string name="remote_prompt_phone_number">Ви потребуєте віддалене управління телефоном</string>
+    <string name="remote_lock_phone_title">Заблокувати телефон та зробити фото</string>
+    <string name="remote_lock_phone_hint">"Надіслати втрачений телефон команду встановити пароль. Телефон зробить фото після двох невірних паролів і вишле вам".</string>
     <string name="remote_lock_phone_hint_sub">Потрібна фронтальна камера.</string>
     <string name="remote_get_location_title">Ви вибрали команду визначення місцеположення.</string>
-    <string name="remote_get_location_hint">\"Команда отримання координат і карти розташування телефону\".</string>
+    <string name="remote_get_location_hint">"Команда отримання координат і карти розташування телефону".</string>
     <string name="remote_get_location_hint_sub">Для відстеження місця розташування телефону необхідно мати телефонний сигнал.</string>
     <string name="remote_delete_data_title">Ви вибрали команду видалення даних</string>
     <string name="remote_delete_data_hint">Видалення всіх даних, включаючи контакти, повідомлення, історію дзвінків</string>
@@ -41,7 +41,7 @@
     <string name="remote_retrieve_password_hint">Посилка цієї команди на телефон змінить пароль.</string>
     <string name="remote_retrieve_password_hint_sub" />
     <string name="command_title">Ви можете відправити ці команди для вашого втраченого телефону через будь-який телефон:</string>
-    <string name="command_lock_phone">Заблокувати телефон і зробити знімок</string>
+    <string name="command_lock_phone">Заблокувати телефон і зробити знімок злодія</string>
     <string name="command_lock_phone_hint">Блокування</string>
     <string name="command_lock_phone_hint_sub">\#QQLock#Password</string>
     <string name="command_get_location">Локація</string>
@@ -55,9 +55,10 @@
     <string name="prompt_input_password_lost">Введіть пароль</string>
     <string name="prompt_input_security_phone_number">Введіть секретний телефонний номер</string>
     <string name="prompt_select_commands">Вибрати команди віддаленого управління</string>
-    <string name="title_have_turned_on">Протикрадій включений</string>
+    <string name="title_have_turned_on">Антизлодій включений</string>
     <string name="pref_sim_lock">pref_sim_lock</string>
-    <string name="pref_sim_lock_title">Блок. зміну SIM</string>
+    <string name="pref_sim_lock_title">Виявити зміну SIM</string>
+    <string name="pref_sim_lock_summary">Заблокувати телефон при заміні SIM-карти</string>
     <string name="pref_password">pref_password</string>
     <string name="pref_password_title">Пароль</string>
     <string name="pref_security_number">pref_security_number</string>
@@ -67,21 +68,18 @@
     <string name="dialog_security_number">Секретний телефонний номер</string>
     <string name="dialog_security_number_hint">"Рекомендується використовувати номер близької людини, як безпечний номер телефону, і він не може бути вашим номером"</string>
     <string name="dialog_security_number_change"><u>Змінити</u></string>
-    <string name="dialog_close_title">Закрити Протикрадій</string>
-    <string name="dialog_close_message">Система закриє Протикрадій</string>
+    <string name="dialog_close_title">Закрити Антизлодій</string>
+    <string name="dialog_close_message">Система закриє Антизлодій</string>
     <string name="dialog_password_forget_title">Забули пароль?</string>
     <string name="dialog_password_forget_text1">Ваш телефон відправить повідомлення з паролем на секретний телефон.</string>
     <string name="dialog_password_forget_text2">Ваш пароль відправлено на секретний телефон.</string>
     <string name="dialog_remember_commands_title">Резервне копіювання протиугінних команд</string>
     <string name="dialog_remember_commands_text1">Команди будуть вислані на секретний телефон повідомленням.</string>
-    <string name="dialog_remember_commands_text2">Команди відправлені на секретний телефон.
-</string>
-    <string name="dialog_command_sent_title">Успішно!
-</string>
+    <string name="dialog_remember_commands_text2">Команди відправлені на секретний телефон.</string>
+    <string name="dialog_command_sent_title">Успішно!</string>
     <string name="dialog_command_sent_text">Успішно! </string>
     <string name="password_forget"><u>Забули пароль?</u> </string>
-    <string name="password_old">Старий пароль
-</string>
+    <string name="password_old">Старий пароль</string>
     <string name="password_new">Новий пароль</string>
     <string name="password_confirm">Підтвердіть новий пароль</string>
     <string name="password_confirm_hint">Введіть новий пароль ще раз</string>
@@ -89,7 +87,7 @@
     <string name="password_show">Показати пароль</string>
     <string name="password_format">Введіть від 4 до 16 символів або цифр в паролі</string>
     <string name="password_step_title">1.Встановіть пароль</string>
-    <string name="password_step_title_sub">Він використовується для входу в Протикрадій, віддаленого управління та функції розблокування телефонів.</string>
+    <string name="password_step_title_sub">Він використовується для входу в Антизлодій, віддаленого управління та функції розблокування телефонів.</string>
     <string name="password_digits">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
     <string name="password_got">Успішно відновлений пароль, і це %s</string>
     <string name="security_number_step_title">2.Номер секретного телефону</string>
@@ -99,13 +97,12 @@
     <string name="user_info_step_title_sub">Посилає повідомлення на секретний телефон у разі зміни SIM-карти.</string>
     <string name="user_info_inner_hint1">Я</string>
     <string name="user_info_inner_hint2">Це повідомлення попередить вас, якщо ваш телефон вкрадений.</string>
-    <string name="complete_step_title">Закінчити налаштування Протикрадій</string>
-    <string name="complete_step_title_sub">Поздравялем, Протикрадій запущений!</string>
+    <string name="complete_step_title">Закінчити налаштування Антизлодій</string>
+    <string name="complete_step_title_sub">Поздравялем, Антизлодій запущений!</string>
     <string name="complete_send_to_security_number">Послати команди секретному телефону.</string>
     <string name="complete_send_to_security_number_hint">Рекомендуємо вам вислати команди на секретний телефон, щоб не забути їх.</string>
     <string name="sim_change_message">Попередження: ваша SIM-карта змінена.</string>
-    <string name="choose_contacts">Вибрати контакт
-</string>
+    <string name="choose_contacts">Вибрати контакт</string>
     <string name="tips4_deleting_data_success">Дані будуть видалені</string>
     <string name="tips4_locate_success">Успішно визначено положення вашого телефону, він тут:</string>
     <string name="tips4_locate_failed">Загублений телефон не може включити GPS, неможливо визначити його місце розташування.</string>
@@ -113,11 +110,11 @@
     <string name="tips4_get_password_failed">Номер вашого секретного телефону невірний, неможливо запросити пароль.</string>
     <string name="tips4_password_error">Неправильний пароль, спробуйте ще раз.</string>
     <string name="tecent">Технічна підтримка Tencent мобільного телефону прибирання</string>
-    <string name="all_commands_hint">"Я використовую Протикрадій, будь ласка, збережіть для мене команди #QQDeleteAll#password видалення даних, #QQLock#password блокування телефону, #QQLocate#password місце розташування, #QQPIN#secure phone number вислати пароль"</string>
+    <string name="all_commands_hint">"Я використовую Антизлодій, будь ласка, збережіть для мене команди #QQDeleteAll#password видалення даних, #QQLock#password блокування телефону, #QQLocate#password місце розташування, #QQPIN#secure phone number вислати пароль"</string>
     <string name="input_antitheft_password">Будь ласка, введіть пароль</string>
     <string name="prompt_insert_sim">Вставте SIM-картку</string>
     <string name="command_not_none">Команда не може бути порожньою</string>
     <string name="prompt_user_info_hint">Введіть ваше ім\'я</string>
     <string name="prompt_close_guide">Ви точно хочете вийти з помічника?</string>
-    <string name="pref_antitheft_on_title">Включити Протикрадій</string>
+    <string name="pref_antitheft_on_title">Включити Антизлодій</string>
 </resources>

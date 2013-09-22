@@ -12,7 +12,7 @@
     <string name="recovering">Відновлення, будь ласка зачекайте...</string>
     <string name="recover_title">Відновлення контактів</string>
     <string name="recover_format">Відновлено %1$s контактів (всього %2$s контактів)</string>
-    <string name="recover_warning_info">Вооствновленіе контактів, поверх існуючих. Продовжити?</string>
+    <string name="recover_warning_info">Відновлення контактів, поверх існуючих. Продовжити?</string>
     <string name="no_network">Немає мережі, будь ласка повторіть пізніше.</string>
     <string name="no_contacts_oncloud">Немає контактів.</string>
 </resources>
